@@ -1,0 +1,21 @@
+h1{
+    color: black;
+    text-align: center;
+}
+body{
+    position: absolute;
+}
+input{
+    padding: 10px;
+    border: 1px solid grey;
+    margin: 0 auto;
+}
+
+button{
+    margin-left: 10px;
+    height: 40px;
+    padding: 0 20px;
+    border: none;
+    background-color:#e83434 ;
+    color: white;
+}
